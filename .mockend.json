@@ -1,5 +1,5 @@
 {
-  "posts": {
+  "Post": {
     "camid": "int",
     "name": "string",
     "street": "string",
