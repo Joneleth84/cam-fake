@@ -1,5 +1,5 @@
 {
-  "Contact": {
+  "contact": {
     "camid": "int",
     "name": "string",
     "street": "string",
