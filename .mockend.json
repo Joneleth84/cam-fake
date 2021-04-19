@@ -1,13 +1,13 @@
 {
-  "Post": {
-    "title": "string",
-    "views": "int",
+  "Contact": {
+    "camid": "int",
+    "name": "string",
+    "street": "string",
+    "postcode": "string",
+    "city": "string",
+    "country": "string",
     "published": "boolean",
     "createdAt": "date",
     "comments": "Comment[]"
-  },
-  "Comment": {
-    "body": "string",
-    "post": "Post"
   }
 }
